@@ -1,0 +1,15 @@
+# IDEs y editores
+.idea/
+*.iml
+.vscode/
+
+# Java compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs y OS
+*.log
+.DS_Store
+Thumbs.db
