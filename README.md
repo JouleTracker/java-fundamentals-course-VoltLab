@@ -23,11 +23,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Usa int, String; declara como `int age = 15;`
 - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
 
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
-- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-- **Conclusiones clave**: `if (age > 12) {}`; `for (int i=0; i<5; i++) {}`
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+### Lección 3: Estructuras de control: Decisiones y bucles (12 minutos)
+- **Descripción**: Aprende a controlar el flujo de ejecución evaluando condiciones con if-else if-else y automatizando repeticiones con bucles for y while.
+- **Enlace**: [Ver la lección](https://youtu.be/ePMdDLMUc-w)
+- **Conclusiones clave**: Toma de decisiones con `if (estatura >= 140) {}`; repetición contada con `for (int i = 5; i >= 1; i--) {}`; ciclo condicional con `while (bateria < 100) {}`.
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/ga/kj9b-u4m5-9pdt) 👈 **¡Inicio inmediato!**
 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
@@ -55,7 +55,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 |---|---|---|
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
+| 3 | Bucles y condicionales | [JDoodle](https://www.jdoodle.com/ga/kj9b-u4m5-9pdt) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
 
@@ -71,13 +71,13 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202620  
 1ASI0729 Desarrollo de Aplicaciones Open Source  
-NRC [Número de NRC]  
+NRC [7769]  
 **Nombre del equipo**: VoltLab  
 **Líder del equipo**: [Nombres y Apellidos]  
 **Integrantes del equipo**:
 - [Integrante 1 - Nombres y Apellidos]
 - [Integrante 2 - Nombres y Apellidos]
-- [Integrante 3 - Nombres y Apellidos]
+- [Integrante 3 - Miguel Angel Jara Espinoza]
 - [Integrante 4 - Nombres y Apellidos]
 - [Integrante 5 - Nombres y Apellidos]  
 **Fecha de entrega**: [Fecha]
