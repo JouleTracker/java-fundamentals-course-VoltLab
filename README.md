@@ -19,9 +19,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/KlLTknfOZlc)
 - **Conclusiones clave**: Usa int, String; declara como `int age = 15;`
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
