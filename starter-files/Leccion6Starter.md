@@ -1,11 +1,7 @@
-
-*(Esta es la plantilla inicial que se le daría a un estudiante principiante para que él mismo corrija los errores y aplique las buenas prácticas).*
-```markdown
 # Lección 6: Actividad Práctica - Limpieza y Depuración (Starter)
 
 Bienvenido a la práctica de la Lección 6. Tu objetivo es tomar este código base que contiene malas prácticas y pequeños errores comunes para corregirlo y dejarlo limpio.
 
-```
 
 
 ##  Código Inicial (Plantilla)
@@ -41,9 +37,11 @@ System.out.println("Puntos: " + p);
     }
 }
 
+```
+
 🎯 Instrucciones de la Actividad
 Renombra n, p y lvl a nombres significativos (por ejemplo: nombreEstudiante, puntaje, nivelActual).
 Aplica sangría correcta dentro del método main.
 Ejecuta el código y comprueba que la consola muestre los resultados sin advertencias ni errores en rojo.
 Code
-```
+
