@@ -43,7 +43,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://youtu.be/gHEnulUZS9Q)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
 
