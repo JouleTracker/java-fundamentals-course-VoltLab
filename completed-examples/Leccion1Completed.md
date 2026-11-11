@@ -1,100 +1,64 @@
-# Clase 1 - ¿Qué es Java y la Programación? (Completed)
+# Lección 1 - Mi primer programa en Java (Completed)
 
-Este documento contiene la solución completa, explicada y comentada paso a paso de la lección 1. El objetivo es conocer la estructura básica de un programa Java y mostrar el mensaje **"Hola, mundo!"** en la consola.
+En esta primera clase vimos qué significa programar, para qué sirve Java y cómo ejecutar un programa sencillo. Aquí está el ejemplo que usamos en la práctica, con una explicación de lo que hace cada parte.
 
----
+## Código de la clase
 
-## 🎯 Código Completo Resuelto
-
-A continuación se presenta el código final, listo para ejecutarse en **OnlineGDB**, **Replit**, **JDoodle** o un entorno local.
-
-Guarda el archivo como `Main.java` si lo ejecutas localmente:
+Para probarlo, abrimos [OnlineGDB](https://onlinegdb.com/hOQLbUZNL), seleccionamos Java y ejecutamos lo siguiente:
 
 ```java
-// =============================================================================
-// LECCIÓN 1: INTRODUCCIÓN A JAVA - PRIMER PROGRAMA
-// =============================================================================
-
-// Definición de la clase principal: su nombre coincide con Main.java
 public class Main {
-
-    // Método principal: punto de entrada del programa
     public static void main(String[] args) {
-
-        // Muestra un mensaje en la consola y luego salta de línea
         System.out.println("Hola, mundo!");
     }
 }
 ```
 
----
-
-## 🖥️ Demostración y Salida en Consola
-
-Al ejecutar el programa, sin necesidad de ingresar datos, se obtiene:
+Al presionar **Run**, la consola muestra:
 
 ```text
 Hola, mundo!
 ```
 
-**Práctica en línea:** [Abrir el ejemplo en OnlineGDB](https://onlinegdb.com/hOQLbUZNL)
+## ¿Cómo funciona?
 
-**Video de la lección:** [Ver la explicación en YouTube](https://youtu.be/e-CJTcVVT5Y)
+Aunque son pocas líneas, hay algunas cosas importantes:
 
----
+- **`public class Main`**: es la clase que contiene nuestro programa. En este caso se llama `Main`.
+- **`public static void main(String[] args)`**: es el método principal, donde comienza la ejecución.
+- **`System.out.println()`**: permite escribir un mensaje en la consola. Lo que está entre comillas es el texto que aparecerá.
+- **Las llaves `{ }`**: indican dónde empieza y termina el contenido de la clase y del método.
+- **El punto y coma `;`**: marca el final de la instrucción que imprime el mensaje.
 
-## 🔍 Explicación Técnica Paso a Paso
+Algo que notamos al ejecutar el código es que Java sigue exactamente las instrucciones que escribimos. Si cambiamos el mensaje, también cambia lo que aparece en la consola.
 
-1. **Clase principal (`public class Main`):**
-   - `class` define una clase, que permite organizar el código Java.
-   - `Main` es el nombre de la clase. Como es `public`, en un archivo fuente local debe llamarse `Main.java`.
-   - Las llaves `{ }` delimitan el contenido de la clase.
+## Una pequeña modificación
 
-2. **Método principal (`public static void main(String[] args)`):**
-   - Es el punto de entrada de esta aplicación Java.
-   - `public` permite que el método sea accesible desde fuera de la clase.
-   - `static` permite que Java lo ejecute sin crear primero un objeto `Main`.
-   - `void` indica que no devuelve ningún valor.
-   - `String[] args` permite recibir argumentos desde la línea de comandos, aunque en este ejemplo no se utilizan.
-
-3. **Salida en consola (`System.out.println("Hola, mundo!");`):**
-   - `System.out` representa la salida estándar del programa.
-   - `println` imprime el texto y agrega un salto de línea al final.
-   - Las comillas dobles delimitan el texto que se desea imprimir.
-   - El punto y coma `;` marca el final de la instrucción.
-
-4. **Comentarios (`//`):**
-   - Permiten añadir explicaciones para las personas que leen el código.
-   - No se ejecutan ni modifican la salida del programa.
-
----
-
-## ✅ Actividad de Comprobación
-
-Modifica el mensaje para que el programa muestre tu nombre:
+Después de probar el “Hola, mundo”, podemos personalizarlo con nuestro nombre y agregar otra línea:
 
 ```java
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola, soy Rodrigo y estoy aprendiendo Java.");
+        System.out.println("Hola, soy Rodrigo.");
+        System.out.println("Estoy aprendiendo Java.");
     }
 }
 ```
 
-**Salida esperada:**
+La salida sería:
 
 ```text
-Hola, soy Rodrigo y estoy aprendiendo Java.
+Hola, soy Rodrigo.
+Estoy aprendiendo Java.
 ```
 
-Puedes reemplazar `Rodrigo` por tu propio nombre.
+Aquí usamos dos veces `println`, por eso cada mensaje aparece en una línea diferente.
 
----
+## Lo que aprendimos
 
-## 📌 Conclusiones Clave
+La programación consiste en darle instrucciones a una computadora para realizar una tarea. Java nos permite escribir esas instrucciones y ejecutarlas. Con este primer ejercicio aprendimos a reconocer la estructura básica de un programa y a mostrar texto en la consola.
 
-- Programar consiste en escribir instrucciones para que una computadora realice tareas.
-- Java es un lenguaje de programación que se utiliza en diversos tipos de aplicaciones.
-- Una clase contiene el método `main`, desde el cual comienza este programa.
-- `System.out.println()` permite mostrar mensajes en la consola.
-- Con un cambio en el texto podemos personalizar la salida sin modificar la estructura del programa.
+Para seguir practicando, se puede cambiar el nombre, escribir un saludo diferente o agregar una tercera línea con otro mensaje.
+
+**Video de la lección:** [¿Qué es Java y la programación?](https://youtu.be/e-CJTcVVT5Y)  
+**Código en línea:** [Ejercicio en OnlineGDB](https://onlinegdb.com/hOQLbUZNL)
