@@ -19,9 +19,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/KlLTknfOZlc)
 - **Conclusiones clave**: Usa int, String; declara como `int age = 15;`
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
@@ -45,7 +45,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-  
+
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/JouleTracker/java-fundamentals-course-VoltLab)
 - **Todas las actividades prácticas**:
@@ -53,7 +53,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Número de lección | Actividad | Empezar a programar |
 |---|---|---|
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
+| 2 | Variables | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
