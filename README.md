@@ -30,10 +30,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/ga/kj9b-u4m5-9pdt) 👈 **¡Inicio inmediato!**
 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
-- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Conclusiones clave**: `public static void greet() {}`; Uso de Scanner; `class Pet { String name; }`
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
+- **Descripción**: Crea funciones reutilizables con parámetros y retorno, interactúa con el usuario mediante Scanner e introduce el modelado de clases y objetos.
+- **Enlace**: [Ver la lección](https://youtu.be/75rHadiNZ7M)
+- **Conclusiones clave**: Métodos modulares con parámetros y valor de retorno; captura de datos en consola con `Scanner`; diseño de clases con atributos, constructores y creación de objetos con `new Mascota()`.
+- **Práctica**: [Haz clic para practicar](https://www.jdoodle.com/ga/d6bj-y7n8-zje2) 👈 **¡No necesitas registrarte!**
 
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
@@ -55,7 +55,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
 | 2 | Variables | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 3 | Bucles y condicionales | [JDoodle](https://www.jdoodle.com/ga/kj9b-u4m5-9pdt) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
+| 4 | Métodos, Scanner y POO | [JDoodle](https://www.jdoodle.com/ga/d6bj-y7n8-zje2) |
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
 
 - **Cuestionario**: [Prueba de conocimientos](https://forms.gle/your-quiz)
