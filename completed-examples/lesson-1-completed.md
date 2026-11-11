@@ -39,7 +39,7 @@ Después de probar el “Hola, mundo”, podemos personalizarlo con nuestro nomb
 ```java
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola, soy Rodrigo.");
+        System.out.println("Hola, soy Carlos.");
         System.out.println("Estoy aprendiendo Java.");
     }
 }
@@ -48,7 +48,7 @@ public class Main {
 La salida sería:
 
 ```text
-Hola, soy Rodrigo.
+Hola, soy Carlos.
 Estoy aprendiendo Java.
 ```
 
