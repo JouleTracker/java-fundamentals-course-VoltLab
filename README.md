@@ -12,10 +12,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ## Secuencia de la Lección
 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
-- **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+- **Descripción**: Aprende qué es la programación, cómo funcionan las instrucciones de una computadora y por qué Java es un excelente lenguaje para comenzar. Conoce sus principales características y desarrolla tu primer programa "Hola, mundo".
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/e-CJTcVVT5Y)
+- **Duración**: 3 minutos de teoría y 2 minutos de práctica.
+- **Conclusiones clave**: Java es un lenguaje orientado a objetos y multiplataforma, utilizado para desarrollar aplicaciones, sistemas empresariales y videojuegos.
+- **Ejemplo práctico**: Crear y ejecutar un programa utilizando `System.out.println("Hola, mundo!");`.
+- **Empieza a programar**: [Abrir OnlineGDB](https://onlinegdb.com/hOQLbUZNL)
 
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
@@ -52,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Número de lección | Actividad | Empezar a programar |
 |---|---|---|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
+| 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/hOQLbUZNL) |
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
@@ -70,13 +72,13 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202620  
 1ASI0729 Desarrollo de Aplicaciones Open Source  
-NRC [Número de NRC]  
+NRC [Pendiente de confirmar]  
 **Nombre del equipo**: VoltLab  
-**Líder del equipo**: [Nombres y Apellidos]  
+**Líder del equipo**: [Pendiente de confirmar]  
 **Integrantes del equipo**:
-- [Integrante 1 - Nombres y Apellidos]
-- [Integrante 2 - Nombres y Apellidos]
-- [Integrante 3 - Nombres y Apellidos]
-- [Integrante 4 - Nombres y Apellidos]
-- [Integrante 5 - Nombres y Apellidos]  
-**Fecha de entrega**: [Fecha]
+- Rodrigo Velasquez Velasquez
+- Alejandro Samir Choquehuanca Vasquez
+- Miguel Angel Jara Espinoza
+- Mijail Alexander Matihues Quevedo
+- Miguel Angel Vidal Castro  
+**Fecha de entrega**: 13 de noviembre de 2026
