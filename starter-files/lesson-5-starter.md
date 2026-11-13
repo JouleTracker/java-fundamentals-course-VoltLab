@@ -102,7 +102,10 @@ public class Mascota {
         }
     }
 
-    // TODO 3: Implementa el método 'public void adoptar()' para cambiar 'disponible' a false
+    // TODO 3: Completa el método 'adoptar()' para cambiar 'disponible' a false
+    public void adoptar() {
+        // Escribe aquí tu código
+    }
 }
 ```
 
@@ -110,11 +113,14 @@ public class Mascota {
 
 ```java
 public class Cliente {
-    // TODO 4: Declara los atributos privados: nombre (String), correo (String) y edad (int)
+    // Atributos privados
+    private String nombre;
+    private String correo;
+    private int edad;
 
     // Constructor
     public Cliente(String nombre, String correo, int edad) {
-        // TODO 5: Asigna los parámetros a los atributos usando 'this'
+        // TODO 4: Asigna los parámetros 'nombre', 'correo' y 'edad' a los atributos usando 'this'
     }
 
     // Getters
@@ -139,11 +145,10 @@ public class Cliente {
         this.correo = correo;
     }
 
-    // Mostrar información del cliente
+    // TODO 5: Completa el método 'mostrarInformacion()' para imprimir nombre, correo y edad del cliente
     public void mostrarInformacion() {
         System.out.println("Nombre del cliente: " + nombre);
-        System.out.println("Correo: " + correo);
-        System.out.println("Edad: " + edad);
+        // Imprime también Correo y Edad
     }
 }
 ```
