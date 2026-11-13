@@ -38,10 +38,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Práctica**: [Haz clic para practicar](https://www.jdoodle.com/ga/d6bj-y7n8-zje2) 👈 **¡No necesitas registrarte!**
 
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
-- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Conclusiones clave**: Encapsulación con getters/setters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Descripción**: Construye clases con atributos privados, constructores, getters/setters y desarrolla un sistema de gestión para una tienda de mascotas en Java.
+- **Enlace**: [Ver la lección](https://youtu.be/6Sf7poDfdQ8)
+- **Conclusiones clave**: Encapsulación con `private`, getters y setters; separación de responsabilidades entre `Mascota`, `Cliente`, `TiendaMascotas` y `Main`; uso de arreglos de objetos.
+- **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/ibj_fSgxB) 👈 **¡Practica en OnlineGDB!**
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -58,7 +58,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 2 | Variables | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 3 | Bucles y condicionales | [JDoodle](https://www.jdoodle.com/ga/kj9b-u4m5-9pdt) |
 | 4 | Métodos, Scanner y POO | [JDoodle](https://www.jdoodle.com/ga/d6bj-y7n8-zje2) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
+| 5 | Programa POO (Tienda de Mascotas) | [OnlineGDB](https://onlinegdb.com/ibj_fSgxB) |
 
 - **Cuestionario**: [Prueba de conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #JavaBeginners
