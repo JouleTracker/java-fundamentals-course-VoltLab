@@ -39,7 +39,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Construye clases con atributos privados, constructores, getters/setters y desarrolla un sistema de gestión para una tienda de mascotas en Java.
 - **Enlace**: [Ver la lección](https://youtu.be/6Sf7poDfdQ8)
 - **Conclusiones clave**: Encapsulación con `private`, getters y setters; separación de responsabilidades entre `Mascota`, `Cliente`, `TiendaMascotas` y `Main`; uso de arreglos de objetos.
-- **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/) 👈 **¡Practica en OnlineGDB!**
+- **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/ibj_fSgxB) 👈 **¡Practica en OnlineGDB!**
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -57,7 +57,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa POO (Tienda de Mascotas) | [OnlineGDB](https://www.onlinegdb.com/) |
+| 5 | Programa POO (Tienda de Mascotas) | [OnlineGDB](https://onlinegdb.com/ibj_fSgxB) |
 
 - **Cuestionario**: [Prueba de conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #JavaBeginners
