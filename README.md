@@ -60,7 +60,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 4 | Métodos, Scanner y POO | [JDoodle](https://www.jdoodle.com/ga/d6bj-y7n8-zje2) |
 | 5 | Programa POO (Tienda de Mascotas) | [OnlineGDB](https://onlinegdb.com/ibj_fSgxB) |
 
-- **Cuestionario**: [Prueba de conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #JavaBeginners
 
 **¡Gracias por completar el curso!**
