@@ -42,10 +42,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Descripción**: Mejores prácticas de código limpio, lectura de errores comunes de consola, técnicas básicas de depuración y recursos para seguir aprendiendo.
 - **Enlace**: [Ver la lección](https://youtu.be/gHEnulUZS9Q)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Consejos clave**: Nombres en `camelCase` y sangría ordenada; lectura de errores (`; expected`, mayúsculas/minúsculas, llaves); depuración con `System.out.println`; documentación de Oracle Java, W3Schools y Exercism.
 
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/JouleTracker/java-fundamentals-course-VoltLab)
