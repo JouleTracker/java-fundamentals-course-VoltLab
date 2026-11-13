@@ -7,7 +7,7 @@
 
 ---
 
-## ⏱️ Estructura y Cronograma del Video Grabado
+##  Estructura y Cronograma del Video Grabado
 
 | Minuto | Sección | Acción visual / En pantalla |
 |---|---|---|

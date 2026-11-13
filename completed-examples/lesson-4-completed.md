@@ -4,7 +4,7 @@ Este documento contiene la solución completa, explicada y comentada paso a paso
 
 ---
 
-## 🎯 Código Completo Resuelto
+##  Código Completo Resuelto
 
 A continuación se presenta el código final listo para ejecutarse en cualquier editor en línea (**OnlineGDB**, **Replit**, **JDoodle**) o entorno local:
 
@@ -100,7 +100,7 @@ public class Leccion4Completed {
 
 ---
 
-## 🖥️ Demostración y Salida en Consola
+## Demostración y Salida en Consola
 
 Al ejecutar el programa anterior e interactuar con la consola (ingresando `Pixel` como nombre y `Perro Robot` como especie), se obtiene la siguiente salida:
 
@@ -124,7 +124,7 @@ Energia restante tras jugar: 70/100
 
 ---
 
-## 🔍 Explicación Técnica Paso a Paso
+##  Explicación Técnica Paso a Paso
 
 1. **Métodos (`saludar` y `calcularEdadMascota`):**
    * El método `saludar` tiene modificador `void` porque solo realiza una acción (imprimir en consola) sin retornar ningún valor numérico o textual.

@@ -4,7 +4,7 @@ Este documento contiene la solución completa de la **Lección 6**. Demuestra la
 
 ---
 
-## 💻 Código Completo Resuelto (`Main.java`)
+## Código Completo Resuelto (`Main.java`)
 
 Listo para copiar y ejecutar directamente en **OnlineGDB** (`Language: Java`):
 
@@ -52,7 +52,7 @@ public class Main {
 
 ---
 
-## 🖥️ Salida Esperada en Consola
+##  Salida Esperada en Consola
 
 ```text
 === GUIA DE BUENAS PRACTICAS Y DEPURACION EN JAVA ===
@@ -75,7 +75,7 @@ Nivel actual: 3
 
 ---
 
-## 📖 Explicación Paso a Paso
+##  Explicación Paso a Paso
 * **Uso de `camelCase` y nombres claros:** Se reemplazan identificadores genéricos (`n`, `p`, `lvl`) por nombres autoexplicativos como `nombreJugador`, `puntuacionMaxima` y `nivelActual` (coincidiendo con el ejemplo demostrado en el video).
 * **Sangría consistente y comentarios `//`:** Cada bloque dentro de `{ }` mantiene 4 espacios de sangría y notas claras para facilitar la lectura por otros estudiantes o programadores.
 * **Depuración con `[DEBUG]`:** Los mensajes temporales con `System.out.println` permiten verificar exactamente qué rama del condicional `if-else` se ejecuta cuando no hay errores de sintaxis, pero el resultado lógico genera dudas.

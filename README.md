@@ -73,11 +73,11 @@ Período 202620
 1ASI0729 Desarrollo de Aplicaciones Open Source  
 NRC 7769  
 **Nombre del equipo**: VoltLab  
-**Líder del equipo**: [Por designar]  
+**Líder del equipo**: [Miguel Angel Jara Espinoza]  
 **Integrantes del equipo**:
 - Rodrigo Velasquez Velasquez
 - Alejandro Samir Choquehuanca Vasquez
 - Miguel Angel Jara Espinoza
 - Mijail Alexander Matihues Quevedo
 - Miguel Angel Vidal Castro  
-**Fecha de entrega**: 13 de noviembre de 2026
+**Fecha de entrega**: 15 de noviembre de 2026

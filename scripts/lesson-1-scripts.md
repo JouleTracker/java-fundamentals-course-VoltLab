@@ -152,7 +152,7 @@ Hola, mundo!
 
 ---
 
-## 📌 Recomendaciones de Grabación
+##  Recomendaciones de Grabación
 
 1. Utilizar las **tres diapositivas teóricas** únicamente durante los primeros tres minutos.
 2. Mostrar el editor y señalar cada línea con el cursor durante los dos minutos finales.

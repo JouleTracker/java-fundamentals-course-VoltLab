@@ -4,7 +4,7 @@ Este documento sirve como guía práctica y contiene la plantilla de código ini
 
 ---
 
-## 🎯 Objetivo de la Lección
+##  Objetivo de la Lección
 
 1. **Programación:** Comprender que un programa es un conjunto ordenado de instrucciones que una computadora ejecuta para realizar tareas.
 2. **Introducción a Java:** Reconocer que Java es un lenguaje de programación orientado a objetos y multiplataforma.
@@ -33,7 +33,7 @@ Java es un lenguaje de programación creado en 1995. Se utiliza para desarrollar
 
 ---
 
-## 💻 Código Inicial (Starter)
+##  Código Inicial (Starter)
 
 Copia la siguiente plantilla en **[OnlineGDB](https://onlinegdb.com/hOQLbUZNL)**, Replit o JDoodle. Completa los espacios marcados como **TODO** antes de ejecutarla.
 
@@ -61,7 +61,7 @@ public class ______ {
 
 ---
 
-## 🖥️ Salida Esperada
+##  Salida Esperada
 
 Cuando completes correctamente los tres TODO y presiones **Run / Ejecutar**, la consola deberá mostrar:
 
@@ -73,7 +73,7 @@ Si aparece un error de compilación, revisa que hayas escrito bien los nombres d
 
 ---
 
-## 🧩 Actividad Guiada Paso a Paso
+##  Actividad Guiada Paso a Paso
 
 1. **Completa el nombre de la clase** con `Main`.
 2. **Completa el nombre del método de entrada** con `main`.
@@ -85,7 +85,7 @@ Puedes comparar tu resultado con el archivo **`Leccion1Completed.md`** de la car
 
 ---
 
-## 🚀 Retos para el Estudiante
+##  Retos para el Estudiante
 
 1. Cambia el mensaje inicial por `Hola, soy [tu nombre]`.
 2. Agrega una segunda instrucción que muestre `Estoy aprendiendo Java` en otra línea.
@@ -93,7 +93,7 @@ Puedes comparar tu resultado con el archivo **`Leccion1Completed.md`** de la car
 
 ---
 
-## 📚 Recursos de la Lección
+##  Recursos de la Lección
 
 - **Video:** [Lección 1 - ¿Qué es Java y la Programación?](https://youtu.be/e-CJTcVVT5Y)
 - **Práctica en línea:** [OnlineGDB - Hola, mundo](https://onlinegdb.com/hOQLbUZNL)

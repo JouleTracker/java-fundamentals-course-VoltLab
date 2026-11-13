@@ -4,7 +4,7 @@ Este documento contiene la solución completa, verificada y comentada de la **Le
 
 ---
 
-## 🎯 Código Completo Resuelto
+## Código Completo Resuelto
 
 En el video se trabaja en **OnlineGDB** (`Language: Java`) con cuatro archivos organizados por responsabilidad: `Mascota.java`, `Cliente.java`, `TiendaMascotas.java` y `Main.java`.
 
@@ -219,7 +219,7 @@ public class Main {
 
 ---
 
-## 🔍 Explicación Paso a Paso de la Solución
+##  Explicación Paso a Paso de la Solución
 
 1. **Encapsulación en `Mascota` y `Cliente`:**
    * Todos los atributos se declaran con `private`, evitando modificaciones directas externas.
@@ -235,7 +235,7 @@ public class Main {
 
 ---
 
-## 💻 Salida Esperada en Consola
+## Salida Esperada en Consola
 
 ```text
 Mascota registrada correctamente.

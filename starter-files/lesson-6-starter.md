@@ -4,7 +4,7 @@ Bienvenido a la práctica de la **Lección 6**. Tu objetivo es tomar este códig
 
 ---
 
-## 🎯 Objetivos de la Práctica
+##  Objetivos de la Práctica
 1. Aplicar la convención **`camelCase`** con nombres descriptivos (`nombreJugador`, `puntuacionMaxima`, `nivelActual`).
 2. Ordenar la **sangría (tabulación)** y añadir comentarios breves con `//`.
 3. Usar el **truco del detective** agregando mensajes `[DEBUG]` con `System.out.println` para verificar el flujo del programa.
@@ -12,7 +12,7 @@ Bienvenido a la práctica de la **Lección 6**. Tu objetivo es tomar este códig
 
 ---
 
-## 💻 Código Inicial (Plantilla para OnlineGDB)
+##  Código Inicial (Plantilla para OnlineGDB)
 
 Pega este código en la pestaña **`Main.java`** de **OnlineGDB** (`Language: Java`) y completa los retos:
 
@@ -55,7 +55,7 @@ System.out.println("Nivel actual: " + lvl);
 
 ---
 
-## 🛠️ Instrucciones de la Actividad
+##  Instrucciones de la Actividad
 1. Renombra `n`, `p` y `lvl` a `nombreJugador`, `puntuacionMaxima` y `nivelActual` respetando la regla **camelCase**.
 2. Alinea correctamente todas las líneas dentro de `main` usando 4 espacios de sangría.
 3. Añade comentarios con `//` y mensajes de rastreo (`[DEBUG]`) para comprobar por consola qué camino toma el condicional `if-else`.

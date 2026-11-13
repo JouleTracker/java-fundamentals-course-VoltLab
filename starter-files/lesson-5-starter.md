@@ -41,7 +41,7 @@ En lugar de concentrar toda la lógica en `Main`, dividimos el sistema:
 
 ---
 
-## 💻 Plantilla de Código Inicial (Para el Estudiante)
+##  Plantilla de Código Inicial (Para el Estudiante)
 
 Crea cuatro pestañas/archivos en tu editor en línea (**OnlineGDB** con lenguaje **Java**): `Mascota.java`, `Cliente.java`, `TiendaMascotas.java` y `Main.java`, y completa las secciones marcadas con `// TODO:`.
 
@@ -224,7 +224,7 @@ public class Main {
 
 ---
 
-## 🚀 Desafíos Adicionales (Para Explorar)
+## Desafíos Adicionales (Para Explorar)
 1. **Doble adopción:** Intenta llamar a `tienda.registrarAdopcion("Max", cliente1);` una segunda vez después de que `Max` fue adoptado y verifica que aparezca el mensaje `"Esta mascota ya fue adoptada."`.
 2. **Mascota inexistente:** Prueba buscar un nombre que no esté en el catálogo (por ejemplo, `"Bobby"`) para observar la respuesta del sistema.
 3. **Actualización con setters:** Cambia el correo de `Carlos` usando `cliente1.setCorreo(...)` o intenta asignar una edad negativa a una mascota con `setEdad(-2)` y comprueba si la validación la bloquea.
